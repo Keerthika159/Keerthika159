@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keerthika159
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Azure cloud technology
+- 👀 I’m interested in Testing
+- 🌱 I’m currently learning Automation Selenium with Java
 
 <!---
 Keerthika159/Keerthika159 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
